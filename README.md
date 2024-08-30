@@ -221,7 +221,4 @@ Some examples of using tags:
     ansible-playbook site.yml --tags="patch"
 ```
 
-License
--------
 
-MIT
